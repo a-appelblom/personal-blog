@@ -22,3 +22,5 @@ Depending on when you read this though it might be different. I have always been
 What do I want to do with this website? I want to have a place where I can write about things I'm interested in. I also want to have a place where I can show off some of my projects.
 
 ## What's next?
+
+First thing is to get the site published and live. Working a lot with NextJs in my day to day, hosting stuff on vercel has always been a breeze, so i will first try that as step one. Then of to cloudflare for the other stuff. I assume if this can be read, i will have succeeded.
